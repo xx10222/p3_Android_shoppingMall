@@ -12,5 +12,4 @@
 - 앱 실행 시 로딩 화면 구현
 
 
-
-loading.JPG
+![페이지 미리보기](https://github.com/xx10222/p3_Android_shoppingMall/blob/main/loading.JPG "로딩화면")
